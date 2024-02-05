@@ -11,4 +11,4 @@ I needed a utility that doesnt rely on `curl.exe` from `C:\Windows\System32`.
 curl https://checkip.amazonaws.com/ > "%appdata%\ip.dat"
 type "%appdata%\ip.dat"
 ```
-I want to remove batch from my projects because honestly batch files are fucking ugly.
+I wanted to remove many batch files from my projects because quite honestly batch files are fucking ugly.
