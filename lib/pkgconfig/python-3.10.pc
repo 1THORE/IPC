@@ -1,0 +1,13 @@
+prefix=${pcfiledir}/../..
+# See: man pkg-config
+exec_prefix=${prefix}/tools/python3
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: Python
+Description: Build a C extension for Python
+Requires:
+Version: 3.10
+Libs.private: 
+Libs:
+Cflags: -I"${includedir}/python3.10"

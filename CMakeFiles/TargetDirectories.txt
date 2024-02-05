@@ -1,0 +1,3 @@
+C:/msys64/home/Terminator/build/CMakeFiles/my_program.dir
+C:/msys64/home/Terminator/build/CMakeFiles/ALL_BUILD.dir
+C:/msys64/home/Terminator/build/CMakeFiles/ZERO_CHECK.dir
